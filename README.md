@@ -1,2 +1,2 @@
-# counter
-# counter
+Simple Counter Application. 
+Vanilla JS & CSS
